@@ -6,7 +6,7 @@
 
     <groupId>cn.wicked.project</groupId>
     <artifactId>example</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>3.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Example Application</name>
@@ -16,7 +16,7 @@
 
     <modules>
         <module>example-for-spring</module>
-        <module>sdk-v3</module>
+        <module>jiguang-sdk-java-v3</module>
     </modules>
 
     <properties>
@@ -40,9 +40,9 @@
 
     <developers>
         <developer>
-            <name>JiGuang-JAVA</name>
-            <email>support@jiguang.com</email>
-            <organization>JiGuang</organization>
+            <name>jiguang-java</name>
+            <email>support@jiguang.cn</email>
+            <organization>jiguang</organization>
             <organizationUrl>https://www.jiguang.com</organizationUrl>
         </developer>
     </developers>

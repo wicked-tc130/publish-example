@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>cn.wicked</groupId>
+    <groupId>io.github.wicked-tc130</groupId>
     <artifactId>example-for-spring</artifactId>
     <version>3.0.0-SNAPSHOT</version>
 
@@ -24,7 +24,7 @@
     <dependencies>
         <!-- jiguang-sdk-java-v3 -->
         <dependency>
-            <groupId>cn.wicked</groupId>
+            <groupId>io.github.wicked-tc130</groupId>
             <artifactId>jiguang-sdk-java-v3</artifactId>
             <version>3.0.0-SNAPSHOT</version>
         </dependency>
